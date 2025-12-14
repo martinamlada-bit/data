@@ -1,0 +1,16 @@
+name: KMS beta sústredenie
+sciences:
+  - mat
+type: sustredenie
+date:
+  start: "2026-02-01"
+  end: "2026-02-08"
+organizers:
+  - trojsten
+info: 'Sústredenie Korešpondenčného matematického seminára pre najúspešnejších riešiteľov levelu 4 a levelu 5.'
+link: https://kms.sk/akcie/sustredenia/
+places:
+  - Floriho chata, Mníchovský potok
+contestants:
+  min: ss1
+  max: ss4
